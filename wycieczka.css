@@ -74,8 +74,22 @@ li:nth-child(even){
     border-radius: 10px;
     background-color: #FFC10D;
 }
-.niebeski{
-    
+.niebieski{
+    height: 140px;
+    width: 270px;
+    background-color: #194f82;
+}
+p{
+    font-family: "Fuzzy Bubbles";
+    color: #FFFF;
+    text-align: center;
+    align-items: center;
+    font-size: 30px;
+}
+.zolta{
+    width: 500px;
+    background-color: #FFC10D;
+    height: 140px;
 }
 
 
